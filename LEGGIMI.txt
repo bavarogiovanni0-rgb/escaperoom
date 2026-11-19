@@ -1,2 +1,0 @@
-Escape Room 3D - sito statico (index.html + three.min.js).
-GitHub Pages: carica questi file in un repo, poi Settings > Pages > Branch main > Save.
